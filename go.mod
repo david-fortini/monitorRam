@@ -1,4 +1,4 @@
-module monitorRam
+module github.com/david-fortini/monitorRam
 
 go 1.16
 
